@@ -1,2 +1,2 @@
 # inabinash.github.io
-Hii, Bro Just Exploringgg
+#Hii, Bro Just Exploringgg
